@@ -1,4 +1,4 @@
-Cargo Management Panel
+<b style="color:red">Cargo Management Panel</b>
 
 Cargo Management Panel
 Features
